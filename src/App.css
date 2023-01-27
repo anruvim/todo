@@ -1,3 +1,6 @@
+@import url("https://fonts.googleapis.com/css?family=Actor:regular,semibold");
+@import url("https://fonts.googleapis.com/css?family=Roboto:regular,semibold");
+
 .App {
   text-align: center;
 }
@@ -27,6 +30,11 @@
 .App-link {
   color: #61dafb;
 }
+.neo {
+  background-color: #282828;
+  border-radius: "40px";
+  box-shadow: -8px -8px 20px #ffffff0d, 16px 16px 20px #00000026;
+}
 
 @keyframes App-logo-spin {
   from {
@@ -35,4 +43,25 @@
   to {
     transform: rotate(360deg);
   }
+}
+@keyframes strike{
+  0%   { width : 0; }
+  100% { width: 100%; }
+}
+.strike {
+  position: relative;
+}
+.strike::after {
+  content: ' ';
+  position: absolute;
+  top: 50%;
+  left: 0;
+  
+  height: 1px;
+  background: white;
+  animation-name: strike;
+  animation-duration: 300ms;
+  animation-timing-function: linear;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards; 
 }
