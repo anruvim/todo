@@ -50,7 +50,7 @@ ToDo Web Application. Test work for Enot.io
 [Mui-url]: https://mui.com/
 [Query]: https://img.shields.io/badge/React%20Query-20232A?style=for-the-badge&logo=ReactQuery&logoColor=white
 [Query-url]: https://tanstack.com/
-[React]: https://img.shields.io/badge/React%JS-20232A?style=for-the-badge&logo=React&logoColor=white
+[React]: https://img.shields.io/badge/React%20JS-20232A?style=for-the-badge&logo=React&logoColor=white
 [React-url]: https://reactjs.org/
 [Typescript]: https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=Typescript&logoColor=white
 [Typescript-url]: https://www.typescriptlang.org/
