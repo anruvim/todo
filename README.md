@@ -19,7 +19,7 @@ ToDo Web Application. Test work for Enot.io
 
 
 ### Built With
-* [![Next][Typescript]][Typescript-url]
+* [![Next][React]][React-url]
 * [![Next][Typescript]][Typescript-url]
 * ### Libraries 
 * [![Next][Mui]][Mui-url]
@@ -40,7 +40,7 @@ ToDo Web Application. Test work for Enot.io
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [product-screenshot1]: images/TODO1.png
 
-[Marquee]: https://img.shields.io/badge/YUP-20232A?style=for-the-badge
+[Marquee]: https://img.shields.io/badge/React%20FAST%20Marquee-20232A?style=for-the-badge
 [Marquee-url]: https://www.react-fast-marquee.com/
 [Yup]: https://img.shields.io/badge/YUP-20232A?style=for-the-badge
 [Yup-url]: https://www.npmjs.com/package/yup
