@@ -9,7 +9,7 @@
     <img src="images/icon.png" alt="Logo" width="150" height="150">
   </a>
 
-<h1 align="center">Web Information System for Education</h3>
+<h1 align="center">ToDo</h3>
 </div>
 
 <!-- ABOUT THE PROJECT -->
@@ -31,7 +31,7 @@ ToDo Web Application.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot1]: images/WISE1.png
+[product-screenshot1]: images/TODO1.png
 
 [Next.js]: https://img.shields.io/badge/next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
