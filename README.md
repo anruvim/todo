@@ -21,7 +21,7 @@ ToDo Web Application. Test work for Enot.io
 ### Built With
 [![Next][React]][React-url]
  [![Next][Typescript]][Typescript-url]
-* ### Libraries 
+### Libraries 
 [![Next][Mui]][Mui-url]
  [![Next][Query]][Query-url]
  [![Next][Form]][Form-url]
