@@ -21,6 +21,9 @@ ToDo Web Application. Test work for Enot.io
 ### Built With
 * [![Next][React]][React-url]
 * [![Next][Typescript]][Typescript-url]
+* ### Libraries 
+* [![Next][Mui]][Mui-url]
+* [![Next][Query]][Query-url]
 
 
 <!-- ABOUT THE PROJECT -->
@@ -34,6 +37,10 @@ ToDo Web Application. Test work for Enot.io
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [product-screenshot1]: images/TODO1.png
 
+[Mui]: https://img.shields.io/badge/Material%20UI-20232A?style=for-the-badge&logo=MUI&logoColor=white
+[Mui-url]: https://mui.com/
+[Query]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=white
+[Query-url]: https://tanstack.com/
 [React]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=white
 [React-url]: https://reactjs.org/
 [Typescript]: https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=Typescript&logoColor=white
