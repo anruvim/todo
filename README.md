@@ -39,7 +39,7 @@ ToDo Web Application. Test work for Enot.io
 
 [Mui]: https://img.shields.io/badge/Material%20UI-20232A?style=for-the-badge&logo=MUI&logoColor=white
 [Mui-url]: https://mui.com/
-[Query]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=white
+[Query]: https://img.shields.io/badge/React%20Query-20232A?style=for-the-badge&logo=ReactQuery&logoColor=white
 [Query-url]: https://tanstack.com/
 [React]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=white
 [React-url]: https://reactjs.org/
