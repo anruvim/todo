@@ -19,13 +19,14 @@ ToDo Web Application. Test work for Enot.io
 
 
 ### Built With
-* [![Next][React]][React-url]
-* [![Next][Typescript]][Typescript-url]
+[![Next][React]][React-url]
+[![Next][Typescript]][Typescript-url]
 * ### Libraries 
 * [![Next][Mui]][Mui-url]
 * [![Next][Query]][Query-url]
 * [![Next][Form]][Form-url]
 * [![Next][Yup]][Yup-url]
+* [![Next][Faker]][Faker-url]
 * [![Next][Marquee]][Marquee-url]
 
 
@@ -42,6 +43,8 @@ ToDo Web Application. Test work for Enot.io
 
 [Marquee]: https://img.shields.io/badge/React%20FAST%20Marquee-20232A?style=for-the-badge
 [Marquee-url]: https://www.react-fast-marquee.com/
+[Faker]: https://img.shields.io/badge/Faker-20232A?style=for-the-badge
+[Faker-url]: https://fakerjs.dev/
 [Yup]: https://img.shields.io/badge/YUP-20232A?style=for-the-badge
 [Yup-url]: https://www.npmjs.com/package/yup
 [Form]: https://img.shields.io/badge/React%20Hook%20Form-20232A?style=for-the-badge&logo=React%20Hook%20Form&logoColor=white
